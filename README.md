@@ -1,2 +1,2 @@
 # MSBA-Capstone
-# This is my repository for capstone project
+## This is my repository for capstone project
